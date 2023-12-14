@@ -1,7 +1,7 @@
 {
   "name": "wilyy",
   "description": "s",
-  "repository": "https://github.com/Noecee/Rein-628972241704",
+  "repository": "https://github.com/Noecee/Rein-628972241704.git",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
